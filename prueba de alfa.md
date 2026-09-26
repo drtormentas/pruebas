@@ -1,3 +1,3 @@
 Ver  $\alpha$
 
-Puedo editar $\alpha y también \beta$
+Puedo editar $\alpha$ y también $\beta$
